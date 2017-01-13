@@ -3,6 +3,8 @@ using System.Drawing;
 using System.Drawing.Imaging;
 using System.Runtime.InteropServices;
 
+//Adapted from stackoverflow user SaxxonPike's post
+//http://stackoverflow.com/questions/24701703/c-sharp-faster-alternatives-to-setpixel-and-getpixel-for-bitmaps-for-windows-f
 namespace BresenhamLines
 {
     public class DirectBitmap : IDisposable
