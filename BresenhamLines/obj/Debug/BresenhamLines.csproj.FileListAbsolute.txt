@@ -1,0 +1,9 @@
+C:\CS\CSharp\BresenhamLines\BresenhamLines\bin\Debug\BresenhamLines.exe.config
+C:\CS\CSharp\BresenhamLines\BresenhamLines\bin\Debug\BresenhamLines.exe
+C:\CS\CSharp\BresenhamLines\BresenhamLines\bin\Debug\BresenhamLines.pdb
+C:\CS\CSharp\BresenhamLines\BresenhamLines\obj\Debug\BresenhamLines.csprojResolveAssemblyReference.cache
+C:\CS\CSharp\BresenhamLines\BresenhamLines\obj\Debug\BresenhamLines.Form1.resources
+C:\CS\CSharp\BresenhamLines\BresenhamLines\obj\Debug\BresenhamLines.Properties.Resources.resources
+C:\CS\CSharp\BresenhamLines\BresenhamLines\obj\Debug\BresenhamLines.csproj.GenerateResource.Cache
+C:\CS\CSharp\BresenhamLines\BresenhamLines\obj\Debug\BresenhamLines.exe
+C:\CS\CSharp\BresenhamLines\BresenhamLines\obj\Debug\BresenhamLines.pdb
